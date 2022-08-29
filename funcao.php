@@ -47,7 +47,7 @@
         
     }
 
-    function calculadora ($numero1, $numero2, $opedador){
+    function calculadora ($numero1, $numero2, $operador){
         if($operador == "+"){
             ImprimirTexto(adicao($numero1, $numero2));
         }
